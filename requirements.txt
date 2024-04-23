@@ -1,8 +1,7 @@
 
 
 # ------------------------------------
-
-cryptography  
 openai
-tensorflow
-imaplib
+pandas  
+scikit-learn  
+
