@@ -3,3 +3,6 @@
 # ------------------------------------
 
 cryptography  
+openai
+tensorflow
+imaplib
