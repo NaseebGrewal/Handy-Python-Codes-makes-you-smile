@@ -1,3 +1,6 @@
+"""
+pip install fpdf
+"""
 from fpdf import FPDF
 
 

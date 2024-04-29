@@ -1,3 +1,6 @@
+"""
+pip install pypdf2
+"""
 import PyPDF2
 
 
