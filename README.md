@@ -22,13 +22,13 @@ pip install -r requirements.txt  # If applicable
 ## 🚀 Usage
 Run individual scripts as needed:
 ```sh
-python Email_Classification/email_classifier.py
-python String_Hashing/hash_generator.py
-python Count_Words/word_counter.py
-python Getting_Gmail_Outlook_Data/email_fetcher.py
-python Merge_PDFs/pdf_merger.py
+python Email_Classification/GPT_email_classification.py
+python String_Hashing/SHA-512_string_hasing.py
+python Count_Words/count_words.py
+python Getting_Gmail_Outlook_Data/get_email_data.py
+python real-world-applications/Merge_PDFs/merge_pdf.py
 python String_Encryption_Decryption/encryption.py
-python String_Encryption_Decryption/decryption.py
+python String_Encryption_Decryption/strong_encrytion.py
 ```
 
 ## 📜 Requirements
